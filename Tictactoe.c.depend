@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673675471 source:c:\users\himaswin\desktop\practice winter\dynamicmemory.c\functions\tictactoe.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+
